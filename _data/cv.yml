@@ -1,0 +1,9 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: University of Science and Technology of China (USTC)
+      institution: BEng in Computer Science
+      year: 2019-now
+    - title: Chengdu No.7 High School
+      institution: High School Diploma
+      year: 2016-2019

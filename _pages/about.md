@@ -2,14 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: CHASELab, <a href='http://en.ustc.edu.cn/'>USTC</a>. Undergraduate in computer science
 
 profile:
   align: right
-  image: ustc.jpg
+  image: hi.png
   image_circular: false # crops the image to make it circular
   address: >
-
+    <p>C801, R&D Center, USTC</p>
+    <p><a href='http://hefeihightech.chinadaily.com.cn'>Hefei National High-Tech Industry Development Zone</a></p>
+    <p>Hefei, Anhui, 230088</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
